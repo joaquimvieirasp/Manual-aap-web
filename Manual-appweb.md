@@ -52,8 +52,8 @@ Ao entrar na página inicial do **Airspace**, será exibido um painel de navega�
 	<figcaption>Fig. 2.1.1: Visualização da Home Airspace. </figcaption>
 </figure>
 
-| Botão | Descrisão |
-| ------------ | ---------------- |
+| Botão | Função |
+| ------------: | ---------------- |
 | **aixm_10oct19** | Exibi a versão e a data do arquivo aixm em uso
 | **change aixm**
 |**joint view** | Possibilita a visualização de todos os elementos num mesmo mapa.
@@ -69,10 +69,10 @@ Ao entrar na página inicial do **Airspace**, será exibido um painel de navega�
 
 <figure id="figViewBotton">
 	<img src="Figuras-aapweb/view_botton_fligtPlans.png" alt="Visualização FlightPlan" title="Visualização FlightPlan" width="800">
-	<figcaption>Fig. 3.1: Visualização Flight Plan. </figcaption>
+	<figcaption>Fig. 3.1: Visualização Flight Plans. </figcaption>
 </figure>
 
-### <a name="homeScenarios"></a> 4.1. Home Scenarios
+### <a name="homeScenarios"></a> 4.1. Home Fligt Plans
 
 # <a name="scenarios"></a> 4. Scenarios
 
