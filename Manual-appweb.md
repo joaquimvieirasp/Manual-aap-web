@@ -39,7 +39,7 @@ A demonstração da Plataforma de análise de espaço aéreo, segue 5 etapas com
 **Objetivo**: Visualização e adição de novos elementos do espaço aéreo, para navegar no Airspace, basta clicar em **ir para a página inicial**, no canto superior direito da página, como mostra a [Figura 2.1](#figViewBotton)
 
 <figure id="figViewBotton">
-	<img src="Figuras-aapweb/view_botton_airspace.png" alt="Visualização Airspace" title="Visualização Airspace" width="250">
+	<img src="Figuras-aapweb/view_botton_airspace.png" alt="Visualização Airspace" title="Visualização Airspace" width="800">
 	<figcaption>Fig. 2.1: Visualização Air Space. </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Ao entrar na página inicial do **Airspace**, será exibido um painel de navega�
 # <a name="FlightPlans"></a> 3. Fligt Plans
 
 <figure id="figViewBotton">
-	<img src="Figuras-aapweb/view_botton_fligtPlans.png" alt="Visualização FlightPlan" title="Visualização FlightPlan" width="250">
+	<img src="Figuras-aapweb/view_botton_fligtPlans.png" alt="Visualização FlightPlan" title="Visualização FlightPlan" width="800">
 	<figcaption>Fig. 3.1: Visualização Flight Plan. </figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Ao entrar na página inicial do **Airspace**, será exibido um painel de navega�
 # <a name="scenarios"></a> 4. Scenarios
 
 <figure id="figViewBotton">
-	<img src="Figuras-aapweb/view_botton_scenarios.png" alt="Visualização Scenarios" title="Visualização Scenarios" width="250">
+	<img src="Figuras-aapweb/view_botton_scenarios.png" alt="Visualização Scenarios" title="Visualização Scenarios" width="800">
 	<figcaption>Fig. 4.1: Visualização Scenarios. </figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Ao entrar na página inicial do **Airspace**, será exibido um painel de navega�
 # <a name="simulation"></a> 5. Simulation
 
 <figure id="figViewBotton">
-	<img src="Figuras-aapweb/view_botton_simulation.png" alt="Visualização Simulation" title="Visualização Simulation" width="250">
+	<img src="Figuras-aapweb/view_botton_simulation.png" alt="Visualização Simulation" title="Visualização Simulation" width="800">
 	<figcaption>Fig. 5.1: Visualização Simulation. </figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Ao entrar na página inicial do **Airspace**, será exibido um painel de navega�
 # <a name="analysis"></a> 6. Analysis
 
 <figure id="figViewBotton">
-	<img src="Figuras-aapweb/view_botton_analysis.png" alt="Visualização Analysis" title="Visualização Analysis" width="250">
+	<img src="Figuras-aapweb/view_botton_analysis.png" alt="Visualização Analysis" title="Visualização Analysis" width="800">
 	<figcaption>Fig. 6.1: Visualização Analysis. </figcaption>
 </figure>
 
