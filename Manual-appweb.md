@@ -138,6 +138,7 @@ Este botão possibilita a visualização de áreas de controle do espaço aéreo
 	<figcaption>Fig. 3.1.a: Visualização Flight Plans. </figcaption>
 </figure>
 
+***
 
 Para criar ou editar um plano de vôo, clique no botão **create / edit flight** como mostra a [Figura 3.1.a](#figViewFlightPlans) onde será exibido um menu com os planos de vôo cadastrados ou criar ou novo item como mostra a [Figura 3.1.b](#figViewcreate)
 
@@ -147,8 +148,10 @@ Para criar ou editar um plano de vôo, clique no botão **create / edit flight**
 	<figcaption>Fig. 3.1.b: Visualização Flight Plans. </figcaption>
 </figure>
 
+***
 
-Para criar um novo plano de vôo, clique no botão **new item** e em seguida preencha as informações que serão solicitadas e finalize clicando em **save**, como mostra a [Figura 3.3](#figViewNewIten)
+
+Para criar um novo plano de vôo, clique no botão **new item** e em seguida preencha as informações que serão solicitadas e finalize clicando em **save**, como mostra a [Figura 3.1.c](#figViewNewIten)
 
 
 <figure id="figViewNewIten">
