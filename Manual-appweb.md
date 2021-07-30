@@ -56,25 +56,60 @@ Ao entrar na página inicial do **Airspace**, será exibido um painel de navega�
 
 ### <a name="mainCommands"></a> 2.2. Pricipais Comandos
 
-	AIXM_10OCT19 - Este botão exibi a versão e data do arquivo AIXM
+**AIXM_10OCT19** - Este botão exibi a versão e data do arquivo AIXM
 
-	CHANGE AIXM - Este botão permite selecionar outro arquivo AIXM
+**CHANGE AIXM** - Este botão permite selecionar outro arquivo AIXM
 
-	JOIN VIEW - Este botão permite a visualização do todos os elementos (airports, navaids, fixs, airways, sectors, sid, star) no mesmo mapa
+<figure id="figviewChangeaixm">
+	<img src="Figuras-aapweb/view_changeaixm_details.png" alt="Visualização da Change AIXM" title="Visualização dA Change AIXM" width="800">
+	<figcaption>Fig. 2.2.1: Visualização da Change AIXM. </figcaption>
+</figure>
 
-	AIRPORTS - Este botão permite a busca e visualização de um aeroporto, e com o botão NEW é possível incluir um novo aeroporto inserindo as informações que serão solicitadas como (id, name, lat, lon, type, max rwy lenght, country code e elevation), após o preenchimento o usuário pode finalizar a criação do elemento clicando em Submit
+**JOIN VIEW** - Este botão permite inserir todos os elementos (**_airports, navaids, fixs, airways, sectors, sid, star_**) para a visualização no mesmo mapa:
 
-	NAVAIDS - Permite a visualização no mapa de dispositivo visual ou eletrônico que forneça informações de orientação ponto a ponto ou dados de posição para aeronaves em vôo, e com o botão NEW é possível inserir novo dispositivo inserindo os dados que serão solicitados (type, lat, lon, elevation, freq, var id desc), após o preenchimento o usuário pode finalizar a criação do elemento clicando em Submit
+<figure id="figviewJoinview">
+	<img src="Figuras-aapweb/view_joinview_details.png" alt="Visualização da joinview" title="Visualização da joinview" width="800">
+	<figcaption>Fig. 2.2.2: Visualização da Join View. </figcaption>
+</figure>
 
-	FIX - 
+**AIRPORTS** - Este botão permite a busca e visualização de um aeroporto, e com o botão NEW é possível incluir um novo aeroporto inserindo as informações que serão solicitadas como (**_id, name, lat, lon, type, max rwy lenght, country code e elevation_**), após o preenchimento o usuário pode finalizar a criação do elemento clicando em Submit
 
-	AIRWAYS - 
+<figure id="figviewairport">
+	<img src="Figuras-aapweb/view_airport_details.png" alt="Visualização do airport" title="Visualização do airport" width="800">
+	<figcaption>Fig. 2.2.3: Visualização do Airport. </figcaption>
+</figure>
 
-	SECTORS - Possibilita a visualização de áreas de controle do espaço aéreo no mapa, e com o botão NEW é possível inserir novas áreas inserindo as informações que serão solicitadas (name, type, uppre limit{fl}, lower limit{fl}), após o preenchimento o usuário pode finalizar a criação do elemento clicando em Submit
+**NAVAIDS** - Permite a visualização no mapa de dispositivo visual ou eletrônico que forneça informações de orientação ponto a ponto ou dados de posição para aeronaves em vôo, e com o botão NEW é possível inserir novo dispositivo inserindo os dados que serão solicitados (**_type, lat, lon, elevation, freq, var id desc_**), após o preenchimento o usuário pode finalizar a criação do elemento clicando em Submit
 
-	SID - 
+<figure id="figviewNavaids">
+	<img src="Figuras-aapweb/view_navaids_details.png" alt="Visualização da navaids" title="Visualização da navaids" width="800">
+	<figcaption>Fig. 2.2.4: Visualização do Navaids. </figcaption>
+</figure>
 
-	STAR - 
+**FIX** - 
+
+<figure id="figviewFixs">
+	<img src="Figuras-aapweb/view_fixs_details.png" alt="Visualização da Fixs" title="Visualização da Fixs" width="800">
+	<figcaption>Fig. 2.2.5: Visualização da Fixs. </figcaption>
+</figure>
+
+**AIRWAYS** - 
+
+**SECTORS** - Possibilita a visualização de áreas de controle do espaço aéreo no mapa, e com o botão NEW é possível inserir novas áreas inserindo as informações que serão solicitadas (**name, type, uppre limit[fl], lower limit[fl]**), após o preenchimento o usuário pode finalizar a criação do elemento clicando em Submit
+
+<figure id="figviewSectors">
+	<img src="Figuras-aapweb/view_sectors_details.png" alt="Visualização da sectors" title="Visualização da sectors" width="800">
+	<figcaption>Fig. 2.2.6: Visualização dos Sectors. </figcaption>
+</figure>
+
+**SID** - 
+
+**STAR** - 
+
+<figure id="figviewStar">
+	<img src="Figuras-aapweb/view_star_details.png" alt="Visualização da star" title="Visualização da star" width="800">
+	<figcaption>Fig. 2.2.7: Visualização da Star. </figcaption>
+</figure>
 
 
 # <a name="FlightPlans"></a> 3. Fligt Plans
