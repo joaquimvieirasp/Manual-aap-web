@@ -5,6 +5,8 @@
 * 2 [Airspace](#airSpace)
 
 * 2.1 [Inicio](#homeAirspace)
+
+* 2.2 [Principais Comandos](mainCommands)
   
 * 3 [Flight Plans](#flightPlans)
 
@@ -52,18 +54,28 @@ Ao entrar na página inicial do **Airspace**, será exibido um painel de navega�
 	<figcaption>Fig. 2.1.1: Visualização da Home Airspace. </figcaption>
 </figure>
 
-| Botão | Função |
-| ------------: | ---------------- |
-| **aixm_10oct19** | Exibi a versão e a data do arquivo aixm em uso
-| **change aixm**
-|**joint view** | Possibilita a visualização de todos os elementos num mesmo mapa.
-| **airports** | Possibilita selecionar e visualizar um aeroporto no mapa e com o botão **new** é possível inserir um novo aeroporto |
-| **navaids** | Possibilita a visualização no mapa de qualquer dispositivo visual ou eletrônico, no ar ou na superfície, que forneça informações de orientação ponto a ponto ou dados de posição para aeronaves em vôo e com o botão **new** pode se inserir um novo dispositivo.
-| **fixs** | 
-| **airways** | 
-| **sectors** | Possibilita a visualização de áreas de controle do espaço aéreo no mapa, e com o botão **new** é possível inserir novas áreas
-| **sid** |
-| **star** |
+### <a name="mainCommands"></a> 2.2. Pricipais Comandos
+
+	AIXM_10OCT19 - Este botão exibi a versão e data do arquivo AIXM
+
+	CHANGE AIXM - Este botão permite selecionar outro arquivo AIXM
+
+	JOIN VIEW - Este botão permite a visualização do todos os elementos (airports, navaids, fixs, airways, sectors, sid, star) no mesmo mapa
+
+	AIRPORTS - Este botão permite a busca e visualização de um aeroporto, e com o botão NEW é possível incluir um novo aeroporto inserindo as informações que serão solicitadas como (id, name, lat, lon, type, max rwy lenght, country code e elevation), após o preenchimento o usuário pode finalizar a criação do elemento clicando em Submit
+
+	NAVAIDS - Permite a visualização no mapa de dispositivo visual ou eletrônico que forneça informações de orientação ponto a ponto ou dados de posição para aeronaves em vôo, e com o botão NEW é possível inserir novo dispositivo inserindo os dados que serão solicitados (type, lat, lon, elevation, freq, var id desc), após o preenchimento o usuário pode finalizar a criação do elemento clicando em Submit
+
+	FIX - 
+
+	AIRWAYS - 
+
+	SECTORS - Possibilita a visualização de áreas de controle do espaço aéreo no mapa, e com o botão NEW é possível inserir novas áreas inserindo as informações que serão solicitadas (name, type, uppre limit{fl}, lower limit{fl}), após o preenchimento o usuário pode finalizar a criação do elemento clicando em Submit
+
+	SID - 
+
+	STAR - 
+
 
 # <a name="FlightPlans"></a> 3. Fligt Plans
 
@@ -72,7 +84,7 @@ Ao entrar na página inicial do **Airspace**, será exibido um painel de navega�
 	<figcaption>Fig. 3.1: Visualização Flight Plans. </figcaption>
 </figure>
 
-### <a name="homeScenarios"></a> 4.1. Home Fligt Plans
+### <a name="homeScenarios"></a> 3.1. Home Fligt Plans
 
 # <a name="scenarios"></a> 4. Scenarios
 
