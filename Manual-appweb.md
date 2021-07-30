@@ -38,7 +38,7 @@ A demonstração da Plataforma de análise de espaço aéreo, segue 5 etapas com
 
 # <a name="airspace"></a> 2. Airspace
 
-**Objetivo**: Visualização e adição de novos elementos do espaço aéreo, para navegar no Airspace, basta clicar em **ir para a página inicial**, no canto superior direito da página, como mostra a [Figura 2.1](#figViewBotton)
+**Objetivo**: Visualização e criação de novos elementos do espaço aéreo, esses elementos poderão ser utilizados posteriormente para a criação de cenários de simulação (**sem regras**), para navegar no Airspace, basta clicar em **ir para a página inicial**, no canto superior direito da página, como mostra a [Figura 2.1](#figViewBotton)
 
 <figure id="figViewBotton">
 	<img src="Figuras-aapweb/view_botton_airspace.png" alt="Visualização Airspace" title="Visualização Airspace" width="800">
@@ -127,14 +127,25 @@ Este botão possibilita a visualização de áreas de controle do espaço aéreo
 
 # <a name="FlightPlans"></a> 3. Fligt Plans
 
-<figure id="figViewBotton">
-	<img src="Figuras-aapweb/view_botton_fligtPlans.png" alt="Visualização FlightPlan" title="Visualização FlightPlan" width="800">
+**Objetivo** do **Fligt Plans** é criar, editar e deletar planos de vôo que podem ser utilizados posteriormente para criação de cenários de simulação, para visualizar os planos de vôo disponiveis conforme a figura:
+
+<figure id="figViewFlightPlans">
+	<img src="Figuras-aapweb/view_fligtPlans_details.png" alt="Visualização FlightPlan" title="Visualização FlightPlan" width="800">
+	<figcaption>Fig. 3.1: Visualização Flight Plans. </figcaption>
+</figure>
+
+Para criar ou editar um plano de vôo, clique no botão **create / edit flight** como mostra a [Figura 3.1](#figViewFlightPlans) onde será exibido um menu com os planos de vôo cadastrados ou criar ou nome item como mostra a figura:
+
+<figure id="figViewFlightPlans">
+	<img src="Figuras-aapweb/view_createPlans.png" alt="Visualização FlightPlan" title="Visualização FlightPlan" width="800">
 	<figcaption>Fig. 3.1: Visualização Flight Plans. </figcaption>
 </figure>
 
 ### <a name="homeScenarios"></a> 3.1. Home Fligt Plans
 
 # <a name="scenarios"></a> 4. Scenarios
+
+Construção de cenários de vôo.
 
 <figure id="figViewBotton">
 	<img src="Figuras-aapweb/view_botton_scenarios.png" alt="Visualização Scenarios" title="Visualização Scenarios" width="800">
@@ -145,6 +156,8 @@ Este botão possibilita a visualização de áreas de controle do espaço aéreo
 
 # <a name="simulation"></a> 5. Simulation
 
+Execução da simulação 
+
 <figure id="figViewBotton">
 	<img src="Figuras-aapweb/view_botton_simulation.png" alt="Visualização Simulation" title="Visualização Simulation" width="800">
 	<figcaption>Fig. 5.1: Visualização Simulation. </figcaption>
@@ -153,6 +166,8 @@ Este botão possibilita a visualização de áreas de controle do espaço aéreo
 ### <a name="homeSimulation"></a> 5.1. Home Simulation
 
 # <a name="analysis"></a> 6. Analysis
+
+comparar um cenario de voo com outro cenário
 
 <figure id="figViewBotton">
 	<img src="Figuras-aapweb/view_botton_analysis.png" alt="Visualização Analysis" title="Visualização Analysis" width="800">
