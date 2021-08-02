@@ -29,7 +29,7 @@
 # <a name="intro"></a> 1.Introdução
 
 
-A demonstração da Plataforma de análise de espaço aéreo, segue 5 etapas como mostra a [Figura 1.1](#figViewHome), começando pelo **_Airpace_**.
+A demonstração da Plataforma de análise de espaço aéreo, tem o propósito de criar, editar, simular, deletar e analisar planos de vôos através de novos elementos (aeronaves) que possam utilizar o espaço aéreo, como mostra a [Figura 1.1](#figViewHome), começando pelo **_Airpace_**.
 
 <figure id="figViewHome">
 	<img src="Figuras-aapweb/view_home.png" alt="Visualização da Home" title="Visualização da Home" width="800">
@@ -37,6 +37,7 @@ A demonstração da Plataforma de análise de espaço aéreo, segue 5 etapas com
 </figure>
 
 # <a name="airspace"></a> 2. Airspace
+
 
 **Objetivo**: Visualização e criação de novos elementos do espaço aéreo, esses elementos poderão ser utilizados posteriormente para a criação de cenários de simulação (**sem regras**), para navegar no Airspace, basta clicar em **ir para a página inicial**, no canto superior direito da página, como mostra a [Figura 2.1](#figViewBotton)
 
@@ -226,13 +227,15 @@ b. Na lista de baixo, é possível selecionar o(s) elemento(s) do espaço aéreo
 
 c. O botão "Select" inicia a simulação do cenário selecionado.
 
-	1. A simulação será iniciada, e os aviões aparecerão no mapa, em movimento.No canto inferior esquerdo, estão as opções de "Renomear", "Finalizar", "Resumi/Pausar", e "Acelerar" a simulação, respectivamente.
-	2. No canto superior direito, está o campo para seleção de elementos a serem exibidos no mapa.
-	3. As três barras do canto superior esquerdo, abrem uma barra lateral para redirecionamento à outras páginas do Projeto Bluesky.
+1. A simulação será iniciada, e os aviões aparecerão no mapa, em movimento.No canto inferior esquerdo, estão as opções de "Renomear", "Finalizar", "Resumi/Pausar", e "Acelerar" a simulação, respectivamente.
+   
+2. No canto superior direito, está o campo para seleção de elementos a serem exibidos no mapa.
+   
+3. As três barras do canto superior esquerdo, abrem uma barra lateral para redirecionamento à outras páginas do Projeto Bluesky.
 
 # <a name="analysis"></a> 6. Analysis
 
-comparar um cenario de voo com outro cenário
+**Objetivo**, Analisar eventos de simulação entre dois cenários, comparando e gerando um relatório com as diferenças entre os cenários comparados como: (atrasos, consumo de combustível, separação entre aeronaves)
 
 <figure id="figViewBotton">
 	<img src="Figuras-aapweb/view_botton_analysis.png" alt="Visualização Analysis" title="Visualização Analysis" width="800">
