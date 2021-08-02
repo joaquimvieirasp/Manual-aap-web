@@ -129,8 +129,28 @@ Este botão possibilita a visualização de áreas de controle do espaço aéreo
 
 ### <a name="homeFlightplans"></a> 3.1. Home Flight Plans
 
+**Objetivo** do **Fligt Plans** é criar, editar e deletar planos de vôo que podem ser utilizados posteriormente para criação de cenários de simulação, para mudar o arquivo que lista os vôos, clique no botão **CHANGE RPL**, ou visualizar os planos de vôo existentes conforme a figura:
 
-**Objetivo** do **Fligt Plans** é criar, editar e deletar planos de vôo que podem ser utilizados posteriormente para criação de cenários de simulação, para visualizar os planos de vôo disponiveis conforme a figura:
+
+### Principais Comandos
+
+a. Ao clicar em um dos elementos da lista, a rota de vôo do elemento será exibida no mapa.
+
+b. Mudar o RPL (Change RPL) - Arquivo que lista os vôos.
+
+c. Selecionar o botão Create/Edit Flight, que redireciona o usuário á página de criação e edição de vôos.
+
+d. O botão "Home" permite o redirecionamento á página inicial dos Planos de Vôo.
+
+e. O campo "Search" permite a busca dos vôos (não só pelo **ID** do vôo, como também suas caracteristicas).
+
+f. Na tabela de vôos, na coluna de Actions, o ícone de "caneta" permite a edição do vôo, e o ícone de "lixeira", a sua exclusão.
+
+g. Ao clicar no ícone de caneta, serão abertos alguns campos para preenchimento. Após, o botão **Submit** permitirá o salvamento dos dados.
+
+h. O batão "New Item" permite a adição de um novo vôo.
+
+### Demonstração dos Principais Comandos:
 
 
 <figure id="figViewFlightPlans">
