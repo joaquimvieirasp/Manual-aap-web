@@ -182,7 +182,6 @@ Para criar um novo plano de vôo, clique no botão **new item** e em seguida pre
 
 # <a name="scenarios"></a> 4. Scenarios
 
-Construção de cenários de vôo.
 
 <figure id="figViewBotton">
 	<img src="Figuras-aapweb/view_botton_scenarios.png" alt="Visualização Scenarios" title="Visualização Scenarios" width="800">
@@ -191,9 +190,24 @@ Construção de cenários de vôo.
 
 ### <a name="homeScenarios"></a> 4.1. Home Scenarios
 
+**Objetivo**: Criação de cenários de vôo.
+
+### Principais Comandos
+
+a. Preencher os dados necessários para a criação de um cenário.
+
+b. Conforme o preenchiomento dos campos, o cenário vai sendo exibido no mapa ao lado.
+
+c. O botão "View and Submit Scenario" ao final da página, permite a visualização e envio do cenário criado.
+
+d. O botão "Clear Fields" permite que o usuário limpe os campos dados.
+
+### Demonstração dos Principais Comandos:
+
+
+
 # <a name="simulation"></a> 5. Simulation
 
-Execução da simulação 
 
 <figure id="figViewBotton">
 	<img src="Figuras-aapweb/view_botton_simulation.png" alt="Visualização Simulation" title="Visualização Simulation" width="800">
@@ -201,6 +215,20 @@ Execução da simulação
 </figure>
 
 ### <a name="homeSimulation"></a> 5.1. Home Simulation
+
+**Objetivo** executar a  simulação dos planos de vôo.
+
+### Principais Comandos
+
+a. Selecionar um cenário da lista de cenários.
+
+b. Na lista de baixo, é possível selecionar o(s) elemento(s) do espaço aéreo que deseja visualizar nete cenário.
+
+c. O botão "Select" inicia a simulação do cenário selecionado.
+
+	1. A simulação será iniciada, e os aviões aparecerão no mapa, em movimento.No canto inferior esquerdo, estão as opções de "Renomear", "Finalizar", "Resumi/Pausar", e "Acelerar" a simulação, respectivamente.
+	2. No canto superior direito, está o campo para seleção de elementos a serem exibidos no mapa.
+	3. As três barras do canto superior esquerdo, abrem uma barra lateral para redirecionamento à outras páginas do Projeto Bluesky.
 
 # <a name="analysis"></a> 6. Analysis
 
